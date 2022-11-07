@@ -2,8 +2,8 @@
 
 ```js
 const josemourinho333 = {
-  name: 'Phil Yoo',
-  location: 'Abbotsford',
+  name: 'Phil Y',
+  location: 'Fraser Valley, BC, Canada',
   pronouns: 'He/Him',
   openToRelocate: true,
   languages: ['JavaScript', 'Ruby'],
@@ -24,7 +24,7 @@ const josemourinho333 = {
     other: ['SEO', 'Digital Marketing']
   },
   methodologies: ['Agile'],
-  currentFocus: 'Learning to use GraphQL and reading up on Blockchain/Web3',
+  currentFocus: 'Juggling few projects at the same time',
   hobbies: ['Tattooing', 'Football', 'Exercising', 'Hiking', 'Reading', 'Movies/Shows', 'Gaming']
 }
 ```
