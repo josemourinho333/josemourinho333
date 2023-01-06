@@ -19,7 +19,7 @@ const josemourinho333 = {
     build: ['Babel', 'Webpack', 'Prettier'],
     devOps: ['CircleCI'],
     testing: ['Cypress', 'Jest', 'Storybook', 'Mocha', 'Chai'],
-    database: ['PostgresSQL', 'ActiveRecord'],
+    database: ['PostgresSQL', 'MySQL', 'Firebase', 'ActiveRecord'],
     design: ['Photoshop', 'Illustrator', 'XD', 'Figma', 'AfterEffects'],
     other: ['SEO', 'Digital Marketing']
   },
